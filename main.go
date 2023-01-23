@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/taylormadore/cachito-gomod-local-parent-deps/pkg/baz-package"
+	"github.com/taylormadore/cachito-gomod-local-parent-deps/baz-package"
 )
 
 

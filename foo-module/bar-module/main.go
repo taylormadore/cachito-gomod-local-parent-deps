@@ -10,7 +10,7 @@ import (
 
 func main() {
 	fmt.Println("Hello, local dependencies.")
-	foo.Hi()
 	bar.Hi()
 	baz.Hi()
+	foo.Hi()
 }
